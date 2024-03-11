@@ -3,3 +3,12 @@
 # pantallazos:
 
 ![Primer Pantallazo](img/inicio.png "inicio de commits")
+
+# barra de navegacion:
+
+![Segundo Pantallazo](img/barra.png "Barra de navegacion")
+![Tercer Pantallazo](img/barra.png "Barra de navegacion, codigo")
+
+# barra de navegacion:
+
+![Segundo Pantallazo](img/barra.png "Barra de navegacion")

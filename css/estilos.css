@@ -10,7 +10,7 @@
   
   body {
     font-family: "lato", sans-serif;
-    color: white;
+    color: rgb(0, 0, 0);
   }
   
   /* Hacer todo el texto de los links negro y sin decoración*/
@@ -54,4 +54,45 @@
   p {
     font-size: 20px;
     margin: 10px 0;
+  }
+
+  .container {
+    margin: 0 auto;
+    max-width: 1200px;
+    overflow: visible;
+}
+.navbar {
+    background-color: purple;
+    height: 70px;
+    padding: 0 30px;
+  }
+
+  .navbar h1 {
+    font-size: 30px;
+    font-weight: 300;
+    margin: 10px 0;
+    line-height: 1.2;
+  }
+
+  .navbar .flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+  }
+
+  .navbar ul {
+    display: flex;
+  }
+  
+  /* Cambia el color de ambos enlaces a blanco, agrega padding entre si y margen también */
+  
+  .navbar a {
+    color: white;
+    padding: 9px;
+    margin: 0 10px;
+  }
+  .navbar a:hover {
+    color: #9867C5;
+    border-bottom: 3px solid #9867C5;
   }
