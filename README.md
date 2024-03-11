@@ -2,4 +2,4 @@
 
 # pantallazos:
 
-![Diagrama de flujo](diagrama.png "diagrama de flujo")
+![Primer Pantallazo](img/inicio.png "inicio de commits")
