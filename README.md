@@ -8,7 +8,8 @@
 
 ![Segundo Pantallazo](img/barra.png "Barra de navegacion")
 ![Tercer Pantallazo](img/codigo1.png "Barra de navegacion, codigo")
+![Tercer Pantallazo](img/barraadap.png "Barra de navegacion, codigo")
 
-# barra de navegacion:
+# Área de presentación
 
-![Segundo Pantallazo](img/barra.png "Barra de navegacion")
+![Segundo Pantallazo](img/areadep.png "Barra de navegacion")
