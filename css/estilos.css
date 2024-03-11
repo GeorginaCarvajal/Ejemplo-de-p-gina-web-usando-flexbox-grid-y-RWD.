@@ -62,7 +62,7 @@
     overflow: visible;
 }
 .navbar {
-    background-color: purple;
+    background-color: rgb(20, 221, 20);
     height: 70px;
     padding: 0 30px;
   }
@@ -93,6 +93,6 @@
     margin: 0 10px;
   }
   .navbar a:hover {
-    color: #9867C5;
-    border-bottom: 3px solid #9867C5;
+    color: #59d832;
+    border-bottom: 3px solid #67bac5;
   }
