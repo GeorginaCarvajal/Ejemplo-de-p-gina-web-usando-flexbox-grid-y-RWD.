@@ -24,3 +24,6 @@
 
 ![Octavo Pantallazo](img/testimonio.png "Seccion de Testimonios")
 
+# Pie de página
+
+![Noveno Pantallazo](img/testimonio.png "Pie de Pagina")
