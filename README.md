@@ -19,3 +19,8 @@
 ![Sexto Pantallazo](img/areainter.png "Area intermedia")
 
 ![Septimo Pantallazo](img/codigo2.png "Area intermedia, Codigo")
+
+# Sección de testimonios
+
+![Octavo Pantallazo](img/testimonio.png "Seccion de Testimonios")
+
