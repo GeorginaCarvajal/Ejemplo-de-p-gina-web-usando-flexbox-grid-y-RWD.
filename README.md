@@ -8,8 +8,14 @@
 
 ![Segundo Pantallazo](img/barra.png "Barra de navegacion")
 ![Tercer Pantallazo](img/codigo1.png "Barra de navegacion, codigo")
-![Tercer Pantallazo](img/barraadap.png "Barra de navegacion, codigo")
+![Cuarto Pantallazo](img/barraadap.png "Barra de navegacion, codigo")
 
 # Área de presentación
 
-![Segundo Pantallazo](img/areadep.png "Barra de navegacion")
+![Quinto Pantallazo](img/areadep.png "Area de presentacion")
+
+# Área intermedia
+
+![Sexto Pantallazo](img/areainter.png "Area intermedia")
+
+![Septimo Pantallazo](img/codigo2.png "Area intermedia, Codigo")
