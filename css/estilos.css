@@ -255,3 +255,52 @@ footer a:hover {
   color: #9867C5;
   border-bottom: 2px solid #9867C5;
 }
+@media(max-width: 768px) {
+  .grid,
+  .grid-3 {
+    grid-template-columns: 1fr;
+  }
+  .showcase {
+    height: auto;
+    text-align: center;
+  }
+
+/* Esto restablece el ancho del contendor de la imagen y agrega margen a la izquierda 
+*/ 
+
+.image {
+    width: 600px;
+    margin-left: 80px;
+  }
+
+/* Cambia las secciones de servicio de lado-a-lado para que cada una se posicione en una sóla linea. Centra el texto. */
+
+.stats .flex {
+    flex-direction: column;
+  }
+
+  .stats {
+    text-align: center;
+  }
+
+/* Asegura que cada sección en las estadísticas no exceda el ancho del elemento padre. */
+
+.stat {
+    width: 100%;
+    padding-right: 80px;
+  }
+
+/* Mueve el círculo al centro de la tarjeta  */
+
+.circle {
+      background-color: transparent;
+      border:3px solid purple;
+      height:90px;
+      position: relative;
+      top: -30px;
+      left: 270px;
+      border-radius:50%;
+      -moz-border-radius:50%;
+      -webkit-border-radius:50%;
+      width:90px;
+  }

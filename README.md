@@ -26,4 +26,4 @@
 
 # Pie de página
 
-![Noveno Pantallazo](img/testimonio.png "Pie de Pagina")
+![Noveno Pantallazo](img/piedepagina.png "Pie de Pagina")
